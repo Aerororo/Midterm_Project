@@ -1,0 +1,13 @@
+Breakout to get you started - suggestions of things to do:
+1. Discuss team norms and meeting times
+2. Go through project requirements
+3. Create a timeline and divide up tasks
+4. Set up project GitHub repo
+
+============================================================
+
+1. Download sql data into csv
+2. Repository on Jewelles github
+3. work on each task together
+4. Focus modelling later
+
