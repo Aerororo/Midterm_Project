@@ -13,7 +13,3 @@ Breakout to get you started - suggestions of things to do:
 
 
 
-https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial
-https://www.kaggle.com/adveros/flight-delay-eda-exploratory-data-analysis
-https://www.forbes.com/sites/currentaccounts/2017/03/23/air-traffic-control-is-not-the-real-cause-of-airline-delays/#3202d7aa2c37
-
